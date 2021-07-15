@@ -3,5 +3,6 @@
 
 NTTニュースリリース：
 https://www.ntt.co.jp/news2015/1502/150217a.html
+
 Youtube動画：
 https://www.youtube.com/watch?v=wIHzWJm5398
