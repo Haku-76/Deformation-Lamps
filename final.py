@@ -4,7 +4,8 @@ from cv2 import cv2
 import numpy as np
 import time
 
-i = 0      # カウント変数
+# カウント変数
+i = 0      
 
 # 静止画の読み込み
 # image = cv2.imread("static_1.png")
@@ -86,7 +87,7 @@ while True:
     frame = cv2.resize(frame,(640,360))
 
     # 背景と前景を融合する
-    perform = cv2.addWeighted(image,0.5,frame,0.5,2)
+    perform = cv2.addWeighted(image,0.5,frame,0.5,0)
     cv2.imshow("Perform",perform)
     cv2.moveWindow("Perform", movie_width//2+10, movie_height//2-40)
     
