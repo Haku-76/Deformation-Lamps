@@ -41,7 +41,7 @@ movie = cv2.VideoCapture("movie_2.mp4")
 # 差分用の背景を準備する
 ret, bg = movie.read()
 
-# 動画ファイル保存用qの設定
+# 動画ファイル保存用の設定
 fps = int(movie.get(cv2.CAP_PROP_FPS)) # 動画のFPSを取得する
 movie_height = int(movie.get(cv2.CAP_PROP_FRAME_HEIGHT)) # 動画の縦幅を取得する
 movie_width = int(movie.get(cv2.CAP_PROP_FRAME_WIDTH)) # 動画の横幅を取得する
