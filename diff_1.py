@@ -3,7 +3,7 @@
 from cv2 import cv2
 import numpy as np
 
-movie = cv2.VideoCapture("sample.mp4")
+movie = cv2.VideoCapture("movie_2.mp4")
 
 fgbg = cv2.bgsegm.createBackgroundSubtractorMOG()
 
