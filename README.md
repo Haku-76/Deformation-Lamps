@@ -5,10 +5,6 @@
 
 ライブラリ：OpenCV, numpy
 
-http://www.kecl.ntt.co.jp/human/hengentou/
+変幻灯HP：http://www.kecl.ntt.co.jp/human/hengentou/
 
-NTTニュースリリース：
-https://www.ntt.co.jp/news2015/1502/150217a.html
-
-Youtube動画：
-https://www.youtube.com/watch?v=wIHzWJm5398
+紹介動画：https://www.youtube.com/watch?v=wIHzWJm5398
